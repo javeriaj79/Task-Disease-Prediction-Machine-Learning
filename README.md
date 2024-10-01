@@ -4,10 +4,10 @@
  ### 1. Support Vector Classifier (SVC):
 It works by finding the optimal hyperplane that separates classes in a dataset. It is effective in high-dimensional spaces and is used here to classify disease outcomes.
 
-# 2.  Naive Bayes:
+### 2.  Naive Bayes:
 It is a probabilistic classifier based on applying Bayes' theorem with the assumption of independence between features. This algorithm is particularly fast and well-suited for categorical data.
 
-# 3. Random Forest:
+### 3. Random Forest:
 It is an ensemble method that creates multiple decision trees and merges their results to improve accuracy and reduce overfitting. It handles both classification and regression tasks well.
 
 # Usage
