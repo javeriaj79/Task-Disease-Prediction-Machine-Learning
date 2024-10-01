@@ -1,21 +1,18 @@
 # Disease Prediction Using Machine Learning
 
-In this project, machine learning algorithms are implemented on a comprehensive Disease Prediction Dataset to accurately classify health conditions based on features extracted from patient medical records. This initiative applies various algorithms: Support Vector Classifier (SVC), Gaussian Naive Bayes, and Random Forest—to improve diagnostic accuracy.
+In this project, machine learning algorithms are implemented on a comprehensive Disease Prediction Dataset to accurately classify health conditions based on features extracted from patient medical records. This initiative applies various algorithms such as: Support Vector Classifier (SVC), Gaussian Naive Bayes, and Random Forest—to improve diagnostic accuracy.
 
 ## Table of Contents
 1. [Project Overview](#task-disease-prediction-machine-learning)
 2. [Algorithm Used](#algorithm-used)
-   [Support Vector Classifier (SVC)](#1-support-vector-classifier-svc)
-   [Naive Bayes](#2-naive-bayes)
-   [Random Forest](#3-random-forest)
 3. [Usage](#usage)
 4. [Prerequisites](#prerequisites)
 5. [Results](#results)
 6. [Feedback](#feedback)
-7. [Contributing](#contributing)
+
 
 ## Project Overview
-Millions worldwide face health issues requiring timely intervention, with diagnosed cases projected to rise. Integrating Artificial Intelligence (AI) into medical practice is crucial for disease prediction and management. This project utilizes machine learning algorithms on a comprehensive Disease Prediction Dataset to improve patient outcomes.
+Millions of individuals face health issues requiring timely intervention, with diagnosed cases projected to rise, straining medical resources and impacting patient outcomes. Integrating Artificial Intelligence into medical practice is a decisive advancement, particularly in disease prediction and management. This project utilizes machine learning algorithms on a comprehensive Disease Prediction Dataset to enhance diagnostic accuracy.
 
 ## Algorithm Used
 
@@ -62,5 +59,4 @@ The performance of each algorithm is summarized below:
 ## Feedback
 If you have any feedback, contact me at [your.email@example.com].
 
-## Contributing
-Your contributions are appreciated! Please fork the repository and open a pull request to propose your enhancements.
+
