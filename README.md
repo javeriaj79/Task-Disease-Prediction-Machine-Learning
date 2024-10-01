@@ -1,6 +1,6 @@
 # Disease Prediction Using Machine Learning
 
-In this project, machine learning algorithms are implemented on a comprehensive Disease Prediction Dataset to accurately classify health conditions based on features extracted from patient medical records. This initiative applies various algorithms such as: Support Vector Classifier (SVC), Gaussian Naive Bayes, and Random Forest—to improve diagnostic accuracy.
+In this project, machine learning algorithms are implemented on a comprehensive Disease Prediction Dataset to accurately classify health conditions based on features extracted from patient medical records. This initiative applies various algorithms such as: Support Vector Classifier (SVC), Gaussian Naive Bayes, and Random Forest to improve diagnostic accuracy.
 
 ## Table of Contents
 1. [Project Overview](#task-disease-prediction-machine-learning)
@@ -12,7 +12,7 @@ In this project, machine learning algorithms are implemented on a comprehensive 
 
 
 ## Project Overview
-Millions of individuals face health issues requiring timely intervention, with diagnosed cases projected to rise, straining medical resources and impacting patient outcomes. Integrating Artificial Intelligence into medical practice is a decisive advancement, particularly in disease prediction and management. This project utilizes machine learning algorithms on a comprehensive Disease Prediction Dataset to enhance diagnostic accuracy.
+Millions globally face complex health issues requiring prompt intervention. As diagnosed cases rise exponentially, medical resources are severely strained, compromising patient outcomes. Integrating Artificial Intelligence (AI) into medical practice represents a decisive advancement, particularly in disease prediction and management. AI's advanced analytics identify patterns and correlations beyond human capability, enabling earlier diagnosis and targeted treatment. This project employs machine learning algorithms on a comprehensive Disease Prediction Dataset to enhance diagnostic accuracy and improve patient outcomes.
 
 ## Algorithm Used
 
@@ -57,6 +57,6 @@ The performance of each algorithm is summarized below:
 | **Random Forest**        | 100.00%           | 100.00%         |
 
 ## Feedback
-If you have any feedback, contact me at [your.email@example.com].
+If you have any feedback, contact me at [email].
 
 
