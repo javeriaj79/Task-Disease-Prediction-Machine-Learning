@@ -1,7 +1,7 @@
 # Task-Disease-Prediction-Machine-Learning
  In this project, machine learning algorithms are implemented on a comprehensive Disease Prediction Dataset to accurately classify health conditions based on features extracted from patient medical records. By applying different algorithms such as Support Vector Classifier (SVC), Gaussian Naive Bayes, and Random Forest, this initiative endeavors to improve diagnostic accuracy.
  # Algorithm Used
- # 1. Support Vector Classifier (SVC):
+ ### 1. Support Vector Classifier (SVC):
 It works by finding the optimal hyperplane that separates classes in a dataset. It is effective in high-dimensional spaces and is used here to classify disease outcomes.
 
 # 2.  Naive Bayes:
