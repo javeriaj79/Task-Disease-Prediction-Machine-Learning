@@ -57,6 +57,6 @@ The performance of each algorithm is summarized below:
 | **Random Forest**        | 100.00%           | 100.00%         |
 
 ## Feedback
-If you have any feedback, contact me at [email](#email)
+If you have any feedback, contact me at [email](#email).
 
 
