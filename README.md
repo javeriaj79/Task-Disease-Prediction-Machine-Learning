@@ -8,7 +8,8 @@ In this project, machine learning algorithms are implemented on a comprehensive 
 3. [Usage](#usage)
 4. [Prerequisites](#prerequisites)
 5. [Results](#results)
-6. [Feedback](#feedback)
+6. [Contributing](#contributing)
+7. [Feedback](#feedback)
 
 
 ## Project Overview
@@ -55,6 +56,9 @@ The performance of each algorithm is summarized below:
 | **SVC**                 | 89.65%            | 92.86%          |
 | **Naive Bayes**          | 100.00%           | 100.00%         |
 | **Random Forest**        | 100.00%           | 100.00%         |
+
+## Contributing
+Contributions are always welcome! Feel free to fork this repository, and submit a pull request to share your improvements with the community.
 
 ## Feedback
 If you have any feedback, contact me at [email](#email).
