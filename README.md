@@ -2,7 +2,7 @@
 
 In this project, machine learning algorithms are implemented on a comprehensive Disease Prediction Dataset to accurately classify health conditions based on features extracted from patient medical records. This initiative applies various algorithms such as: Support Vector Classifier (SVC), Gaussian Naive Bayes, and Random Forest to improve diagnostic accuracy.
 
-## Table of Contents
+## Table of Contents :
 1. [Project Overview](#task-disease-prediction-machine-learning)
 2. [Algorithm Used](#algorithm-used)
 3. [Usage](#usage)
@@ -48,14 +48,7 @@ To use this project:
 - Libraries: scikit-learn, pandas, numpy, matplotlib (optional for plotting)
 
 ## Results :
-
-The performance of each algorithm is summarized below:
-
-| Algorithm               | Training Accuracy | Test Accuracy   |
-|-------------------------|-------------------|-----------------|
-| **SVC**                 | 89.65%            | 92.86%          |
-| **Naive Bayes**          | 100.00%           | 100.00%         |
-| **Random Forest**        | 100.00%           | 100.00%         |
+Each model's accuracy was assessed on both training and test datasets. Confusion matrices were generated for each classifier to visualize their performance. 
 
 ## Contributing :
 Contributions are always welcome! Feel free to fork this repository, and submit a pull request to share your improvements with the community.
