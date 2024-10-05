@@ -12,10 +12,10 @@ In this project, machine learning algorithms are implemented on a comprehensive 
 7. [Feedback](#feedback)
 
 
-## Project Overview
+## Project Overview :
 Millions globally face complex health issues requiring prompt intervention. As diagnosed cases rise exponentially, medical resources are severely strained, compromising patient outcomes. Integrating Artificial Intelligence (AI) into medical practice represents a decisive advancement, particularly in disease prediction and management. AI's advanced analytics identify patterns and correlations beyond human capability, enabling earlier diagnosis and targeted treatment. This project employs machine learning algorithms on a comprehensive Disease Prediction Dataset to enhance diagnostic accuracy and improve patient outcomes.
 
-## Algorithm Used
+## Algorithm Used :
 
 ### 1. Support Vector Classifier (SVC):
 It works by finding the optimal hyperplane that separates classes in a dataset. It is effective in high-dimensional spaces and is used here to classify disease outcomes, applicable in both linear and non-linear problems.
@@ -26,7 +26,7 @@ It is a probabilistic classifier based on applying Bayes' theorem with the assum
 ### 3. Random Forest:
 It is an ensemble method that creates multiple decision trees and merges their results to improve accuracy and reduce overfitting. It handles both classification and regression tasks well, and provides insights into feature importance.
 
-## Usage
+## Usage :
 To use this project:
 
 1. Clone the repository to your local machine:
@@ -43,11 +43,11 @@ To use this project:
     python disease_prediction.py
     ```
 
-## Prerequisites:
+## Prerequisites :
 - Python 3.x
 - Libraries: scikit-learn, pandas, numpy, matplotlib (optional for plotting)
 
-## Results
+## Results :
 
 The performance of each algorithm is summarized below:
 
@@ -57,10 +57,10 @@ The performance of each algorithm is summarized below:
 | **Naive Bayes**          | 100.00%           | 100.00%         |
 | **Random Forest**        | 100.00%           | 100.00%         |
 
-## Contributing
+## Contributing :
 Contributions are always welcome! Feel free to fork this repository, and submit a pull request to share your improvements with the community.
 
-## Feedback
+## Feedback :
 If you have any feedback, contact me at [email](#email).
 
 
