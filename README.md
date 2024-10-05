@@ -48,7 +48,7 @@ To use this project:
 - Libraries: scikit-learn, pandas, numpy, matplotlib (optional for plotting)
 
 ## Results :
-Each model's accuracy was assessed on both training and test datasets. Confusion matrices were generated for each classifier to visualize their performance. 
+Each model's accuracy was assessed on both training and test datasets. Confusion matrices were generated for each classifier to visualize their performance. Overall, the findings provide valuable insights into improving predictive accuracy. 
 
 ## Contributing :
 Contributions are always welcome! Feel free to fork this repository, and submit a pull request to share your improvements with the community.
